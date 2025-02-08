@@ -30,7 +30,8 @@ Cleaned the data, and it is ready for developing the Interactive Dashboard.
 - Basic understanding of Power BI for data manipulation and dashboard customization
 
 
-Copyright (c) 2024 Amrita-Soney
+Copyright (c) 2024 VIGNESHWAR1604
+
 
 
 
